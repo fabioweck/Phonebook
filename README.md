@@ -1,4 +1,4 @@
-# phonebook
+# Phonebook
 
 A phonebook application with Object-Oriented Programming + file handler
 
